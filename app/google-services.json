@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "207702350008",
+    "project_id": "mirrorapp-dae1d",
+    "storage_bucket": "mirrorapp-dae1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207702350008:android:b81fa802b92649f04ebc4d",
+        "android_client_info": {
+          "package_name": "com.example.mirrorgram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207702350008-udrkj86kebb2orhckgo557ap0ol5e1bf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4p_gpFY2pEp_lZpNPi_rV2pUFkDJeunY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207702350008-udrkj86kebb2orhckgo557ap0ol5e1bf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

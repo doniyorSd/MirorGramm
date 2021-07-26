@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mirror Gram</string>
+    <string name="splash_name">Mirror Gram</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sign_in">Sign In</string>
+    <string name="add">Qo\'shish</string>
+</resources>
